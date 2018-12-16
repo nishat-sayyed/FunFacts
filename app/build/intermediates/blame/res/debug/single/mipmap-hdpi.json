@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\FunFacts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\fun.png",
+        "source": "E:\\FunFacts\\app\\src\\main\\res\\mipmap-hdpi\\fun.png"
+    },
+    {
+        "merged": "E:\\FunFacts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\FunFacts\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

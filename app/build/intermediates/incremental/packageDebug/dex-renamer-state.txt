@@ -1,0 +1,7 @@
+#Sun Mar 12 11:34:48 IST 2017
+base.0=E\:\\FunFacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fe951719d946c36719478806a1c60ea3ec96dcb1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\FunFacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_921f35b4469c005a5183bf2af5b5402ce593a4a0\\classes.dex
+base.1=E\:\\FunFacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_921f35b4469c005a5183bf2af5b5402ce593a4a0
+file.0=E\:\\FunFacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fe951719d946c36719478806a1c60ea3ec96dcb1\\classes.dex
